@@ -13,7 +13,7 @@ slide-number:
   c
 ---
 
-## Gender Wealth Gapff
+## Gender Wealth
 
 ![](images/luecke_gekauft.jpg){.absolute top="50" left="0" width="100%"}
 
