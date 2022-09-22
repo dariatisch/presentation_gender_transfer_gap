@@ -11,6 +11,7 @@ format:
 editor: visual
 slide-number:
   c
+  #https://quarto.org/docs/publishing/github-pages.html#render-to-docs
 ---
 
 ## Gender Wealth Gap
