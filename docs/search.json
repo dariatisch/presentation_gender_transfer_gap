@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "dgs.html#gender-wealth-gapff",
+    "href": "dgs.html#gender-wealth-gapff",
+    "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
+    "section": "Gender Wealth Gapff",
+    "text": "Gender Wealth Gapff\n\n\n\nGender wealth gap well established\nDifferences in Income and employment times mostly relevant for wealth gap\nBut intergenerational transfers might also play a role\nas does the tax system"
+  },
+  {
+    "objectID": "dgs.html#motivation",
+    "href": "dgs.html#motivation",
+    "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
+    "section": "Motivation",
+    "text": "Motivation\n\n\n\n\n\nShare of inherited wealth in aggregate private wealth in Europe around 50-60% (Alvaredo, Garbinti, Piketty 2017)\nWhat’s the role of intergenerational transfers in gender wealth inequality?\nMixed prior ﬁndings\n\nBessière & Gollac 2020, Le Genre du capital: Gender diﬀerence in age and amounts of transfers\nHardly any gender diﬀerences in inheritances in Germany (Vogel et al. 2021, Leopold und Schneider 2010)\nBut: Prior research based on survey data"
+  },
+  {
+    "objectID": "dgs.html#research-questions-contributions",
+    "href": "dgs.html#research-questions-contributions",
+    "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
+    "section": "Research Questions & Contributions",
+    "text": "Research Questions & Contributions\n\nResearch Questions\n\nAre there gender diﬀerences in parental transfers (inheritances and gifts) in Germany?\nHow does the German inheritance and gift tax system shape gender inequalities?\n\n\nContributions\n\nFocus on the upper part of the transfer distribution\nDiﬀerentiation between asset types\nRole of the tax system in shaping gender wealth inequality\n\n\n\nUpper part important because wealth = power"
+  },
+  {
+    "objectID": "dgs.html#theoretical-background",
+    "href": "dgs.html#theoretical-background",
+    "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
+    "section": "Theoretical Background",
+    "text": "Theoretical Background\n\nThe family as an economic institution\n\nFamily contributes to wealth concentration via intergenerational transfers (e.g., Farrell 1993)\nFamily as a place where wealth is produced, circulated, controlled, and assigned value (Bessière & Gollac 2020)\n\nGender inequality in transfers\n\nSocietal beliefs in gender diﬀerences in entitlements (Lerner & Mikula 1994, Tisch & Gutﬂeisch 2022)\nDaughters and sons might receive diﬀerent asset types\nUnintentional consequences of the tax system (exemptions)"
+  },
+  {
+    "objectID": "dgs.html#country-context-german-gift-and-inheritance-tax-law",
+    "href": "dgs.html#country-context-german-gift-and-inheritance-tax-law",
+    "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
+    "section": "Country context:  German gift and inheritance (tax) law",
+    "text": "Country context:  German gift and inheritance (tax) law\n\nInheritances\n\nstatutory inheritance quota or last will (predeﬁned inheritances = Vermächtnis and quota)\nrestricted testamentary freedom → disinheritance possible but statutory share: minimum inheritance of close relatives is half the amount they would have received in absence of a last will\n\nGifts: amount of the gift and the recipient can be freely determined\nInheritance tax (not an estate tax)\n\npersonal tax exemption (applies to the taxable person): e.g., 400,000 EUR / 10 years for parental transfer\nfactual tax exemption (applies to the taxable object): business, forest, furniture, family home etc."
+  },
+  {
+    "objectID": "dgs.html#data",
+    "href": "dgs.html#data",
+    "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
+    "section": "Data",
+    "text": "Data\n\n\n\n\n\nGerman inheritance and gift tax data 2020 (in the future: 2007-2020)\nHighly sensitive data → restricted access\nCover bequests and gifts for which a tax claim was requested\nAdvantage: Entire population of tax relevant transfers\nDisadvantage: Only entire population of tax relevant transfers\nCoverage: 30% of all bequests, accounting for 73% of all transferred wealth above 10,000 EUR in 2010 (Bach et al. 2014)"
+  },
+  {
+    "objectID": "dgs.html#methods",
+    "href": "dgs.html#methods",
+    "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
+    "section": "Methods",
+    "text": "Methods\n   \n\nDescriptive analyses\nOLS with ranked data\n\n\nOur methods are very straightforward, we look at descriptive tables and graphs and run quantile regressions to examine the transfer gap. Because the data are highly skewed, it does not make sense to run OLS."
+  },
+  {
+    "objectID": "dgs.html#number-of-parental-transfers-2020",
+    "href": "dgs.html#number-of-parental-transfers-2020",
+    "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
+    "section": "Number of parental transfers (2020)",
+    "text": "Number of parental transfers (2020)"
+  },
+  {
+    "objectID": "dgs.html#number-of-transfers-by-wealth-type-2020",
+    "href": "dgs.html#number-of-transfers-by-wealth-type-2020",
+    "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
+    "section": "Number of transfers by wealth type (2020)",
+    "text": "Number of transfers by wealth type (2020)\n ::: {.notes}\n:::"
+  },
+  {
+    "objectID": "dgs.html#sum-of-parental-inheritance-by-wealth-type-2020",
+    "href": "dgs.html#sum-of-parental-inheritance-by-wealth-type-2020",
+    "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
+    "section": "Sum of parental inheritance by wealth type (2020)",
+    "text": "Sum of parental inheritance by wealth type (2020)\n\nRaw inheritance gap: 8,5%\n\n\n\nDaughters receive 8.5% less inheritances than sons."
+  },
+  {
+    "objectID": "dgs.html#sum-of-parental-gifts-by-wealth-type-2020",
+    "href": "dgs.html#sum-of-parental-gifts-by-wealth-type-2020",
+    "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
+    "section": "Sum of parental gifts by wealth type (2020)",
+    "text": "Sum of parental gifts by wealth type (2020)\n\nRaw inheritance gap: 38,4%\n\n\n\nDaughters receive 38.4% less inheritances than sons."
+  },
+  {
+    "objectID": "dgs.html#section",
+    "href": "dgs.html#section",
+    "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
+    "section": "",
+    "text": "Let’s look at how the tax system shapes gender inequality."
+  },
+  {
+    "objectID": "dgs.html#sum-of-parental-taxable-transfers-2020",
+    "href": "dgs.html#sum-of-parental-taxable-transfers-2020",
+    "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
+    "section": "Sum of parental (taxable) transfers (2020)",
+    "text": "Sum of parental (taxable) transfers (2020)\n ::: {.notes}\n:::"
+  },
+  {
+    "objectID": "dgs.html#mean-of-parental-taxable-transfers",
+    "href": "dgs.html#mean-of-parental-taxable-transfers",
+    "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
+    "section": "Mean of parental (taxable) transfers",
+    "text": "Mean of parental (taxable) transfers\n ::: {.notes}\n:::"
+  },
+  {
+    "objectID": "dgs.html#effective-inheritance-tax-rate-by-gender-2020",
+    "href": "dgs.html#effective-inheritance-tax-rate-by-gender-2020",
+    "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
+    "section": "Effective inheritance tax rate by gender (2020)",
+    "text": "Effective inheritance tax rate by gender (2020)\ndag"
+  },
+  {
+    "objectID": "dgs.html#effective-gift-tax-rate-by-gender-2020",
+    "href": "dgs.html#effective-gift-tax-rate-by-gender-2020",
+    "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
+    "section": "Effective gift tax rate by gender (2020)",
+    "text": "Effective gift tax rate by gender (2020)\n\n\n\n2 percentage points difference in effective tax rate!\nGift tax indirectly discriminates women."
+  },
+  {
+    "objectID": "dgs.html#results-of-regression-analyses-transfers-in-percentiles-2007-2020",
+    "href": "dgs.html#results-of-regression-analyses-transfers-in-percentiles-2007-2020",
+    "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
+    "section": "Results of regression analyses: transfers in percentiles (2007-2020)",
+    "text": "Results of regression analyses: transfers in percentiles (2007-2020)\n\n\n\n\n\n\n\n\n\nGifts\n(in percentiles)\nInheritances\n(in percentiles)\n\n\n\n\nRaw gender gap\n-1,857***\n-0.095 (ns)\n\n\nGender gap with controls*\n-0.110 (ns)\n0.06 (ns)\n\n\n\n\n\n* Controls: age donor, age receiver, east-west, gender donor, asset types, year"
+  },
+  {
+    "objectID": "dgs.html#results-of-regression-analyses-effective-tax-rate-2007-2020",
+    "href": "dgs.html#results-of-regression-analyses-effective-tax-rate-2007-2020",
+    "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
+    "section": "Results of regression analyses: effective tax rate (2007-2020)",
+    "text": "Results of regression analyses: effective tax rate (2007-2020)\n\n\n\n\n\n\n\n\n\nEffective tax rate,\ngifts\nEffective tax rate,\ninheritances\n\n\n\n\nRaw gender gap\n0.549***\n0.08***\n\n\nGender gap with controls*\n0.346***\n0.067***\n\n\n\n\n\n* Controls: age donor, age receiver, east-west, gender donor, asset types, year"
+  },
+  {
+    "objectID": "dgs.html#conlusion",
+    "href": "dgs.html#conlusion",
+    "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
+    "section": "Conlusion",
+    "text": "Conlusion\n\n\nGender gap in total amounts and number of inheritances and gifts\nNo gender inheritance gap but gender gift gap in average transfer\nAsset types and gender of donor explain gender transfer gap\nTax system ampliﬁes gender inequality\n\n\n\n\nContact:\ntisch@mpifg.de  dariatisch@github.io"
+  },
+  {
+    "objectID": "dgs.html#no-age-differences",
+    "href": "dgs.html#no-age-differences",
+    "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
+    "section": "No age differences",
+    "text": "No age differences"
+  }
+]

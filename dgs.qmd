@@ -1,7 +1,4 @@
 ---
-project:
-  type: website
-  output-dir: docs
 title: "Gender Differences in Wealth Transfers: <br> Evidence from tax data"
 author: "Daria Tisch¹ & Manuel Schechtl² <br>  <br> September 27, 2022 <br> <br> ¹Max Planck Institute for the Study of Societies <br> ²Stone-Center on Socio-Economic Inequality, The Graduate Center, City University of New York"
 subtitle: DGS 2022  
@@ -16,7 +13,7 @@ slide-number:
   c
 ---
 
-## Gender Wealth Gap
+## Gender Wealth Gapff
 
 ![](images/luecke_gekauft.jpg){.absolute top="50" left="0" width="100%"}
 
