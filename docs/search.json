@@ -115,15 +115,15 @@
     "objectID": "dgs.html#results-of-regression-analyses-transfers-in-percentiles-2007-2020",
     "href": "dgs.html#results-of-regression-analyses-transfers-in-percentiles-2007-2020",
     "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
-    "section": "Results of regression analyses: transfers in percentiles (2007-2020)",
-    "text": "Results of regression analyses: transfers in percentiles (2007-2020)\n\n\n\n\n\n\n\n\n\nGifts\n(in percentiles)\nInheritances\n(in percentiles)\n\n\n\n\nRaw gender gap\n-1,857***\n-0.095 (ns)\n\n\nGender gap with controls*\n-0.110 (ns)\n0.06 (ns)\n\n\n\n\n\n* Controls: age donor, age receiver, east-west, gender donor, asset types, year"
+    "section": "Results of regression analyses:  Transfers in percentiles (2007-2020)",
+    "text": "Results of regression analyses:  Transfers in percentiles (2007-2020)\n\n\n\n\n\n\n\n\n\nGifts\n(in percentiles)\nInheritances\n(in percentiles)\n\n\n\n\nRaw gender gap\n-1,857***\n-0.095 (ns)\n\n\nGender gap with controls*\n-0.110 (ns)\n0.06 (ns)\n\n\n\n\n\n* Controls: age donor, age receiver, east-west, gender donor, asset types, year"
   },
   {
     "objectID": "dgs.html#results-of-regression-analyses-effective-tax-rate-2007-2020",
     "href": "dgs.html#results-of-regression-analyses-effective-tax-rate-2007-2020",
     "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
-    "section": "Results of regression analyses: effective tax rate (2007-2020)",
-    "text": "Results of regression analyses: effective tax rate (2007-2020)\n\n\n\n\n\n\n\n\n\nEffective tax rate,\ngifts\nEffective tax rate,\ninheritances\n\n\n\n\nRaw gender gap\n0.549***\n0.08***\n\n\nGender gap with controls*\n0.346***\n0.067***\n\n\n\n\n\n* Controls: age donor, age receiver, east-west, gender donor, asset types, year"
+    "section": "Results of regression analyses:  Effective tax rate (2007-2020)",
+    "text": "Results of regression analyses:  Effective tax rate (2007-2020)\n\n\n\n\n\n\n\n\n\nEffective tax rate,\ngifts\nEffective tax rate,\ninheritances\n\n\n\n\nRaw gender gap\n0.549***\n0.08***\n\n\nGender gap with controls*\n0.346***\n0.067***\n\n\n\n\n\n* Controls: age donor, age receiver, east-west, gender donor, asset types, year"
   },
   {
     "objectID": "dgs.html#conlusion",

@@ -172,6 +172,9 @@ Daughters receive 38.4% less inheritances than sons.
 ## 
 
 ::: {style="font-size: 2.5em; text-align: center"}
+<br>
+
+<br>
 [Let's look at how the tax system shapes gender inequality.]{style="color:darkred;text-align:center"}
 :::
 
@@ -206,7 +209,7 @@ dag ![](images/output4b_gepr_1.png){.absolute top="45" left="0" width="85%"}
 -   Gift tax indirectly discriminates women.
 :::
 
-## Results of regression analyses: transfers in percentiles (2007-2020)
+## Results of regression analyses: <br> Transfers in percentiles (2007-2020)
 
 +----------------------------+------------------+------------------+
 |                            | Gifts            | Inheritances     |
@@ -224,7 +227,7 @@ dag ![](images/output4b_gepr_1.png){.absolute top="45" left="0" width="85%"}
 
 \* Controls: age donor, age receiver, east-west, gender donor, asset types, year
 
-## Results of regression analyses: effective tax rate (2007-2020)
+## Results of regression analyses: <br> Effective tax rate (2007-2020)
 
 +----------------------------+---------------------+---------------------+
 |                            | Effective tax rate, | Effective tax rate, |
