@@ -154,7 +154,7 @@ Raw inheritance gap: 8,5%
 ![](images/sum_inheritance_type2.svg){.absolute top="100" left="0" width="85%"}
 
 ::: notes
-Daughters receive 8.5% less inheritances than sons.
+Daughters receive 8.5% less tax relevant inheritances than sons.
 :::
 
 ## Sum of parental gifts by wealth type (2020)
@@ -166,7 +166,7 @@ Raw inheritance gap: 38,4%
 ![](images/sum_gift_type2.svg){.absolute top="100" left="0" width="85%"}
 
 ::: notes
-Daughters receive 38.4% less inheritances than sons.
+Daughters receive 38.4% less tax relevant gifts than sons.
 :::
 
 ## 
