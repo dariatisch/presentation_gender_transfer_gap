@@ -11,7 +11,7 @@
     "href": "dgs.html#motivation",
     "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
     "section": "Motivation",
-    "text": "Motivation\n\n\n\n\n\nShare of inherited wealth in aggregate private wealth in Europe around 50-60% (Alvaredo, Garbinti, Piketty 2017)\nWhat’s the role of intergenerational transfers in gender wealth inequality?\nMixed prior ﬁndings\n\nBessière & Gollac 2020, Le Genre du capital: Gender diﬀerence in age and amounts of transfers\nHardly any gender diﬀerences in inheritances in Germany (Vogel et al. 2021, Leopold und Schneider 2010)\nBut: Prior research based on survey data"
+    "text": "Motivation\n\n\n\n\n\nShare of inherited wealth in aggregate private wealth in Europe around 50-60% (Alvaredo, Garbinti, and Piketty 2017)\nWhat’s the role of intergenerational transfers in gender wealth inequality?\nMixed prior ﬁndings\n\nGender diﬀerence in age and amounts of transfers (Bessière and Gollac 2020)\nHardly any gender diﬀerences in inheritances in Germany (Leopold and Schneider 2011; Vogel et al. 2021)\nBut: Prior research based on survey data"
   },
   {
     "objectID": "dgs.html#research-questions-contributions",
@@ -25,7 +25,7 @@
     "href": "dgs.html#theoretical-background",
     "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
     "section": "Theoretical Background",
-    "text": "Theoretical Background\n\nThe family as an economic institution\n\nFamily contributes to wealth concentration via intergenerational transfers (e.g., Farrell 1993)\nFamily as a place where wealth is produced, circulated, controlled, and assigned value (Bessière & Gollac 2020)\n\nGender inequality in transfers\n\nSocietal beliefs in gender diﬀerences in entitlements (Lerner & Mikula 1994, Tisch & Gutﬂeisch 2022)\nDaughters and sons might receive diﬀerent asset types\nUnintentional consequences of the tax system (exemptions)"
+    "text": "Theoretical Background\n\nThe family as an economic institution\n\nFamily contributes to wealth concentration via intergenerational transfers (Farrell 1993)\nFamily as a place where wealth is produced, circulated, controlled, and assigned value (Bessière and Gollac 2020)\n\nGender inequality in transfers\n\nSocietal beliefs in gender diﬀerences in entitlements (Lerner and Mikula 1994; Tisch and Gutfleisch 2022)\nDaughters and sons might receive diﬀerent asset types\nUnintentional consequences of the tax system (exemptions)"
   },
   {
     "objectID": "dgs.html#country-context-german-gift-and-inheritance-tax-law",
@@ -39,7 +39,7 @@
     "href": "dgs.html#data",
     "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
     "section": "Data",
-    "text": "Data\n\n\n\n\n\nGerman inheritance and gift tax data 2020 (in the future: 2007-2020)\nHighly sensitive data → restricted access\nCover bequests and gifts for which a tax claim was requested\nAdvantage: Entire population of tax relevant transfers\nDisadvantage: Only entire population of tax relevant transfers\nCoverage: 30% of all bequests, accounting for 73% of all transferred wealth above 10,000 EUR in 2010 (Bach et al. 2014)"
+    "text": "Data\n\n\n\n\n\nGerman inheritance and gift tax data 2020 (in the future: 2007-2020)\nHighly sensitive data → restricted access\nCover bequests and gifts for which a tax claim was requested\nAdvantage: Entire population of tax relevant transfers\nDisadvantage: Only entire population of tax relevant transfers\nCoverage: 30% of all bequests, accounting for 73% of all transferred wealth above 10,000 EUR in 2010 (Bach et al. 2014)"
   },
   {
     "objectID": "dgs.html#methods",
@@ -152,5 +152,12 @@
     "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
     "section": "Gender Wealth Gap",
     "text": "Gender Wealth Gap\n\n\n\nGender wealth gap well established\nDifferences in Income and employment times mostly relevant for wealth gap\nBut intergenerational transfers might also play a role\nas does the tax system"
+  },
+  {
+    "objectID": "dgs.html#references",
+    "href": "dgs.html#references",
+    "title": "Gender Differences in Wealth Transfers:  Evidence from tax data",
+    "section": "References",
+    "text": "References\n\n\nAlvaredo, Facundo, Bertrand Garbinti, and Thomas Piketty. 2017. “On the Share of Inheritance in Aggregate Wealth: Europe and the USA, 19002010.” Economica 84 (334): 239–60. https://doi.org/10.1111/ecca.12233.\n\n\nBach, Stefan, Henriette Houben, Ralf Maiterth, and Richard Ochmann. 2014. “Aufkommens-Und Verteilungswirkungen von Reformalternativen Für Die Erbschaft-Und Schenkungsteuer. Endbericht: Forschungsprojekt Im Auftrag Der Bundestagsfraktion Bündnis 90/Die Grünen.” Politikberatung Kompakt.\n\n\nBessière, Céline, and Sibylle Gollac. 2020. Genre Du Capital : Comment La Famille Reproduit Les Inégalités. Paris: Découverte.\n\n\nFarrell, Betty. 1993. Elite Families: Class and Power in Nineteenth-Century Boston. SUNY Press.\n\n\nLeopold, Thomas, and Thorsten Schneider. 2011. “Intergenerationale Vermögenstransfers Und Soziale Ungleichheit.” In, 49–72. Springer.\n\n\nLerner, Melvin J., and Gerold Mikula. 1994. Entitlement and the Affectional Bond. Justice in Close Relationships. Critical I. Boston, MA: Springer.\n\n\nTisch, Daria, and Tamara Gutfleisch. 2022. “Unequal but Just ? Experimental Evidence on Distributive Justice Principles in Parental Inter Vivos Transfers.” Socio-Economic Review.\n\n\nVogel, Claudia, H. Künemund, K. Baresel, H. Eulitz, U. Fachinger, M. M. Grabka, C. Halbmeier, and A. Lozano Alcántara. 2021. “Gleiche Erbchancen Für Frauen Und Männer? Zur Geschlechtsspezifschen Bedeutung von Erbschaften Für Die Alterssicherung.” Deutsche Rentenversicherung 3: 236–51."
   }
 ]

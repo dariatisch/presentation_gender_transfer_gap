@@ -12,6 +12,7 @@ editor: visual
 slide-number:
   c
   #https://quarto.org/docs/publishing/github-pages.html#render-to-docs
+bibliography: references.bib
 ---
 
 ## Gender Wealth Gap
@@ -33,12 +34,12 @@ slide-number:
 :::
 
 ::: {.column width="60%"}
--   Share of inherited wealth in aggregate private wealth in Europe around 50-60% (Alvaredo, Garbinti, Piketty 2017)
+-   Share of inherited wealth in aggregate private wealth in Europe around 50-60% [@alvaredo2017]
 -   What's the role of intergenerational transfers in gender wealth inequality?
 -   Mixed prior ﬁndings
-    -   Bessière & Gollac 2020, Le Genre du capital: Gender diﬀerence in age and amounts of transfers
+    -   Gender diﬀerence in age and amounts of transfers [@bessière2020]
 
-    -   Hardly any gender diﬀerences in inheritances in Germany (Vogel et al. 2021, Leopold und Schneider 2010)
+    -   Hardly any gender diﬀerences in inheritances in Germany [@leopold2011; @vogel2021a]
 
     -   But: Prior research based on survey data
 :::
@@ -76,12 +77,12 @@ slide-number:
 
 ### The family as an economic institution
 
--   Family contributes to wealth concentration via intergenerational transfers (e.g., Farrell 1993)
--   Family as a place where wealth is produced, circulated, controlled, and assigned value (Bessière & Gollac 2020)
+-   Family contributes to wealth concentration via intergenerational transfers [@farrell1993]
+-   Family as a place where wealth is produced, circulated, controlled, and assigned value [@bessière2020]
 
 ### Gender inequality in transfers
 
--   Societal beliefs in gender diﬀerences in entitlements (Lerner & Mikula 1994, Tisch & Gutﬂeisch 2022)
+-   Societal beliefs in gender diﬀerences in entitlements [@lerner1994; @tisch2022]
 -   Daughters and sons might receive diﬀerent asset types
 -   Unintentional consequences of the tax system (exemptions)
 
@@ -114,7 +115,7 @@ slide-number:
 -   Cover bequests and gifts for which a tax claim was requested
 -   Advantage: Entire population of tax relevant transfers
 -   Disadvantage: Only entire population of tax relevant transfers
--   Coverage: 30% of all bequests, accounting for 73% of all transferred wealth above 10,000 EUR in 2010 (Bach et al. 2014)
+-   Coverage: 30% of all bequests, accounting for 73% of all transferred wealth above 10,000 EUR in 2010 [@bach2014]
 :::
 :::
 
@@ -268,6 +269,11 @@ dag ![](images/output4b_gepr_1.png){.absolute top="45" left="0" width="85%"}
 :::
 
 ::: notes
+:::
+
+## References
+
+::: {#refs}
 :::
 
 ## No age differences {.appendix}
