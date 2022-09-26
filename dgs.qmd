@@ -20,8 +20,8 @@ bibliography: references.bib
 ![](images/luecke_gekauft.jpg){.absolute top="50" left="0" width="100%"}
 
 ::: notes
--   Gender wealth gap well established
--   Differences in Income and employment times mostly relevant for wealth gap
+-   Gender wealth gap well established, Men own more wealth than women.
+-   Prior research studied how differences in income and employment times relate to gender differences in wealth
 -   But intergenerational transfers might also play a role
 -   as does the tax system
 :::
@@ -46,6 +46,15 @@ bibliography: references.bib
 :::
 
 ::: notes
+Why should we look at intergenerational transfers?
+
+-   Most personal wealth today is inherited
+
+-   So it is the logical question, how intergenerational transfers contribute to the gender wealth gap
+
+-   prior literature
+
+-   And because wealth is highly concentrated and power comes along with wealth, it is important to know more about gender differences at the top of the wealth distribution.
 :::
 
 ## Research Questions & Contributions
@@ -69,6 +78,10 @@ bibliography: references.bib
 
 ::: notes
 -   Upper part important because wealth = power
+-   Three main contributions
+-   we add to prior literature by looking at the top
+-   It is important to differentiate between asset types because they offer different accumulation potential and translate differently into power
+-   how institutions shape wealth inequality
 :::
 
 ## Theoretical Background
@@ -87,6 +100,11 @@ bibliography: references.bib
 -   Unintentional consequences of the tax system (exemptions)
 
 ::: notes
+In a recent study Tamara and I find first evidence for gendered transfer principles although most individuals endorse equality.
+
+Conflict: parents want to allocate transfers equally but also want to keep the fortunes together
+
+gender inequality in transfers might also be the product of the tax system. It could be that men benefit more from tax exemptions than women.
 :::
 
 ## Country context: <br> German gift and inheritance (tax) law
@@ -100,6 +118,7 @@ bibliography: references.bib
     -   factual tax exemption (applies to the taxable object): business, forest, furniture, family home etc.
 
 ::: notes
+Before you die you have basically two options: writing a last will or not
 :::
 
 ## Data
@@ -130,8 +149,14 @@ bibliography: references.bib
 
 -   OLS with ranked data
 
+    -   Dependent variables:
+
+        1.  Percentile rank in gifts / inheritances
+
+        2.  Effective inheritance / gift tax rate
+
 ::: notes
-Our methods are very straightforward, we look at descriptive tables and graphs and run quantile regressions to examine the transfer gap. Because the data are highly skewed, it does not make sense to run OLS.
+Our methods are very straightforward, we look at descriptive tables and graphs. Because the data are highly skewed, we rank-transform the data.
 :::
 
 ## Number of parental transfers (2020)
@@ -139,6 +164,9 @@ Our methods are very straightforward, we look at descriptive tables and graphs a
 ![](images/1a_n_transfers.svg){.absolute top="40" left="0" width="100%"}
 
 ::: notes
+Sons receive more inheritances and gifts than daughters.
+
+The gender differences more pronounced with gifts.
 :::
 
 ## Number of transfers by wealth type (2020)
@@ -157,6 +185,8 @@ Raw inheritance gap: 8,5%
 
 ::: notes
 Daughters receive 8.5% less tax relevant inheritances than sons.
+
+Sons received in total more wealth. True for each category.
 :::
 
 ## Sum of parental gifts by wealth type (2020)
@@ -169,6 +199,8 @@ Raw gift gap: 38,4%
 
 ::: notes
 Daughters receive 38.4% less tax relevant gifts than sons.
+
+Gender differences very high in business wealth.
 :::
 
 ## 
@@ -186,12 +218,19 @@ Daughters receive 38.4% less tax relevant gifts than sons.
 
 ![](images/1a_summe_waffle.svg){.absolute top="45" left="0" width="100%"} ::: {.notes}
 
+::: notes
+On the right we have the total amount of wealth transfer. On the left we see the total amount of taxable wealth. That is, the wealth transfer - all exemptions.
+
+Sons received 4 billion more in gifts. but no gender difference in the taxable wealth transfer. this shows that men benefit more from tax exemptions.
+
+Same for inheritances but less pronounced.
 :::
 
 ## Mean of parental (taxable) transfers
 
 ![](images/a_mean.svg){.absolute top="45" left="0" width="100%"} ::: {.notes}
 
+::: notes
 :::
 
 ## Effective inheritance tax rate by gender (2020)
@@ -199,6 +238,7 @@ Daughters receive 38.4% less tax relevant gifts than sons.
 dag ![](images/output4b_gepr_1.png){.absolute top="45" left="0" width="85%"}
 
 ::: notes
+No big gender differences in the effective inheritance tax rate. Only at the top of the wealth distribution, daughter have to pay more taxes than sons.
 :::
 
 ## Effective gift tax rate by gender (2020)
@@ -207,7 +247,7 @@ dag ![](images/output4b_gepr_1.png){.absolute top="45" left="0" width="85%"}
 
 ::: notes
 -   2 percentage points difference in effective tax rate!
--   Gift tax indirectly discriminates women.
+-   Gift tax indirectly discriminates women because men benefit from tax exemptions.
 :::
 
 ## Results of regression analyses: <br> Transfers in percentiles (2007-2020)
@@ -253,8 +293,8 @@ dag ![](images/output4b_gepr_1.png){.absolute top="45" left="0" width="85%"}
 
 <br>
 
--   Gender gap in total amounts and number of inheritances and **gifts**
--   No gender inheritance gap but gender gift gap in average transfer
+-   Gender gap in total amounts and number of inheritances and gifts
+-   Gender differences more pronounced in gifts compared to inheritances
 -   Asset types and gender of donor explain gender transfer gap
 -   Tax system ampliﬁes gender inequality
 
