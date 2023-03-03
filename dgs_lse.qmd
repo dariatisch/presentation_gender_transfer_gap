@@ -1,7 +1,7 @@
 ---
 title: "Gender differences in  <br> parental wealth transfers and   <br> how the German tax system contributes to the gender wealth gap"
 author: "<br>  Daria Tisch¹ & Manuel Schechtl² <br>  <br> ¹Max Planck Institute for the Study of Societies <br> ²Stone-Center on Socio-Economic Inequality, The Graduate Center, City University of New York"
-subtitle: "Women's Day at the MPIfG  <br>  <br>  March, 7th 2023"  
+subtitle: "INAUGURAL III/LIS COMPARATIVE ECONOMIC INEQUALITY CONFERENCE  <br>  <br>  February, 25th 2023"  
 format: 
   revealjs:
     theme: [default, custom.scss]
@@ -30,68 +30,68 @@ bibliography: references.bib
 -   So both intergenerational transfers and taxes have been neglected in the literature on the gender wealth gap. We want to change that with this project.
 :::
 
-<!-- ## Motivation {.larger} -->
+## Motivation {.larger}
 
-<!-- ::: columns -->
-<!-- ::: {.column width="40%"} -->
-<!-- ![](images/transfers.jpg){.absolute top="200" left="0" width="400"} -->
-<!-- ::: -->
+::: columns
+::: {.column width="40%"}
+![](images/transfers.jpg){.absolute top="200" left="0" width="400"}
+:::
 
-<!-- ::: {.column width="60%"} -->
-<!-- -   Share of inherited wealth in aggregate private wealth in Europe around 50-60% [@alvaredo2017] -->
-<!-- -   What's the role of intergenerational transfers in gender wealth inequality? -->
-<!--     -   Gender diﬀerence in age and amounts of transfers [@bessière2020] -->
+::: {.column width="60%"}
+-   Share of inherited wealth in aggregate private wealth in Europe around 50-60% [@alvaredo2017]
+-   What's the role of intergenerational transfers in gender wealth inequality?
+    -   Gender diﬀerence in age and amounts of transfers [@bessière2020]
 
-<!--     -   Hardly any gender differences in **inheritances** in Germany [@leopold2011; @vogel2021a] -->
+    -   Hardly any gender differences in **inheritances** in Germany [@leopold2011; @vogel2021a]
 
-<!--     -   Daughters more likely to receive inter vivos transfer but only until they are married [@loxton2019] -->
+    -   Daughters more likely to receive inter vivos transfer but only until they are married [@loxton2019]
 
-<!--     -   But: Prior research based on **survey data** -->
-<!-- ::: -->
-<!-- ::: -->
+    -   But: Prior research based on **survey data**
+:::
+:::
 
-<!-- ::: notes -->
-<!-- Let me motviate why we should look at taxation on intergenerational transfers -->
+::: notes
+Let me motviate why we should look at taxation on intergenerational transfers
 
-<!-- -   Most personal wealth today is inherited. Share of inherited wealth in aggregate wealth is estimated to be around 50-60%. -->
+-   Most personal wealth today is inherited. Share of inherited wealth in aggregate wealth is estimated to be around 50-60%.
 
-<!-- -   So if private wealth is so much shaped by inheritance it is only logical to ask how intergenerational transfers contribute to the gender wealth gap -->
+-   So if private wealth is so much shaped by inheritance it is only logical to ask how intergenerational transfers contribute to the gender wealth gap
 
-<!-- -   Prior literature on this topic is limited. For France, Bessiere and Gollac show that men receive transfers at earlier ages and higher amounts leading to a higher accumulation potential -->
+-   Prior literature on this topic is limited. For France, Bessiere and Gollac show that men receive transfers at earlier ages and higher amounts leading to a higher accumulation potential
 
-<!-- -   Hardly any gender differences are found in Germany for inheritances. Some for gifts. -->
+-   Hardly any gender differences are found in Germany for inheritances. Some for gifts.
 
-<!-- -   In the US, daughters more likely to receive transfers but no difference in amounts. And increased likelihood only for unmarried daughters. -->
+-   In the US, daughters more likely to receive transfers but no difference in amounts. And increased likelihood only for unmarried daughters.
 
-<!-- -   The problem of these study is that they are based on survey data which do not represent the upper end of the wealth distribution well. Because wealth is highly concentrated and power comes along with wealth, it is especially important to know more about gender differences at the top of the wealth transfer distribution. -->
-<!-- ::: -->
+-   The problem of these study is that they are based on survey data which do not represent the upper end of the wealth distribution well. Because wealth is highly concentrated and power comes along with wealth, it is especially important to know more about gender differences at the top of the wealth transfer distribution.
+:::
 
-<!-- ## Research question & contributions -->
+## Research question & contributions
 
-<!-- <br> -->
+<br>
 
-<!-- ### Research question -->
+### Research question
 
-<!-- How does the inheritance and gift tax system shape gender inequalities in parental transfers? -->
+How does the inheritance and gift tax system shape gender inequalities in parental transfers?
 
-<!-- <br> -->
+<br>
 
-<!-- ### Contributions -->
+### Contributions
 
-<!-- -   Focus on the upper part of the transfer distribution -->
+-   Focus on the upper part of the transfer distribution
 
-<!-- -   Diﬀerentiation between asset types -->
+-   Diﬀerentiation between asset types
 
-<!-- -   Role of the tax system in shaping gender wealth inequality -->
+-   Role of the tax system in shaping gender wealth inequality
 
-<!-- ::: notes -->
-<!-- -   In our study we ask: -->
-<!--     -   How does the German inheritance and gift tax system shape gender inequalities? -->
-<!-- -   I think we make three major contributions with this study -->
-<!--     1.  We add to prior literature by looking at the top of the transfer distribution: Upper part important because wealth is related to power -->
-<!--     2.  We differentiate between assets types. It is important to differentiate between asset types because they offer different accumulation potential and translate differently into power. It makes a difference if you inherited a house or a business -->
-<!--     3.  We contribute to the questions how institutions shape wealth inequality by looking at the tax system. here the idea is that men and women benefit differently from tax exemptions because they receive different kind of assets -->
-<!-- ::: -->
+::: notes
+-   In our study we ask:
+    -   How does the German inheritance and gift tax system shape gender inequalities?
+-   I think we make three major contributions with this study
+    1.  We add to prior literature by looking at the top of the transfer distribution: Upper part important because wealth is related to power
+    2.  We differentiate between assets types. It is important to differentiate between asset types because they offer different accumulation potential and translate differently into power. It makes a difference if you inherited a house or a business
+    3.  We contribute to the questions how institutions shape wealth inequality by looking at the tax system. here the idea is that men and women benefit differently from tax exemptions because they receive different kind of assets
+:::
 
 ## Theoretical background
 
@@ -124,37 +124,37 @@ What is the relevant gendered economic behavior here? Sons and daughters might r
 -   But even if their are no gendered beliefs, gender difference might arise. Parents might be in a conflict between pursing the principle of equality but also other principles like the exchange or need/altruistic principle. The parents might also want to keep the fortunes together. To this end it might make sense to transfer wealth unequally between children. So it might be the case that there are gender differences in the characteristics which trigger these principles. For example that women are more likely to be in need of financial help and therefore receive more transfers.
 :::
 
-<!-- ## Country context: <br> German gift and inheritance (tax) law -->
+## Country context: <br> German gift and inheritance (tax) law
 
-<!-- -   Inheritances -->
-<!--     -   statutory inheritance quota or last will (predeﬁned inheritance + quota) -->
-<!--     -   restricted testamentary freedom → disinheritance possible but statutory share: minimum inheritance of close relatives is half the amount they would have received in absence of a last will -->
-<!-- -   Gifts: amount of the gift and the recipient can be freely determined -->
-<!-- -   Inheritance tax (not an estate tax) -->
-<!--     -   personal tax exemption (applies to the taxable person): e.g., 400,000 EUR / 10 years for parental transfer -->
-<!--     -   factual tax exemption (applies to the taxable object): business, forest, furniture, family home etc. -->
+-   Inheritances
+    -   statutory inheritance quota or last will (predeﬁned inheritance + quota)
+    -   restricted testamentary freedom → disinheritance possible but statutory share: minimum inheritance of close relatives is half the amount they would have received in absence of a last will
+-   Gifts: amount of the gift and the recipient can be freely determined
+-   Inheritance tax (not an estate tax)
+    -   personal tax exemption (applies to the taxable person): e.g., 400,000 EUR / 10 years for parental transfer
+    -   factual tax exemption (applies to the taxable object): business, forest, furniture, family home etc.
 
-<!-- ::: notes -->
-<!-- Before you die you have basically two options: writing a last will or not -->
+::: notes
+Before you die you have basically two options: writing a last will or not
 
-<!-- -   if you don't write a last will the statutory inheritance quota will be in place with no gender discrimination -->
+-   if you don't write a last will the statutory inheritance quota will be in place with no gender discrimination
 
-<!-- -   or you write a last will and can specify the quota or also predefine inheritance. eg you can say that your son should receive the house -->
+-   or you write a last will and can specify the quota or also predefine inheritance. eg you can say that your son should receive the house
 
-<!-- -   The testamentary freedom is restricted in Germany. You can disinherit a child but then this child can claim their statutory share from the legal heir. This share is half of the amount they would receive in the absence of a will -->
+-   The testamentary freedom is restricted in Germany. You can disinherit a child but then this child can claim their statutory share from the legal heir. This share is half of the amount they would receive in the absence of a will
 
-<!-- -   There are no regulations regarding gift. Thus, the amount and recipient of gifts can be freely chosen -->
+-   There are no regulations regarding gift. Thus, the amount and recipient of gifts can be freely chosen
 
-<!-- -   What about taxes? -->
+-   What about taxes?
 
-<!--     -   inheritance tax not an estate tax like in the US -->
+    -   inheritance tax not an estate tax like in the US
 
-<!--     -   gifts and inheritances are treated equally -->
+    -   gifts and inheritances are treated equally
 
-<!--     -   personal tax exemptions which apply to the taxable person: eg 400,000 Euro every 10 years for each parent -->
+    -   personal tax exemptions which apply to the taxable person: eg 400,000 Euro every 10 years for each parent
 
-<!--     -   factual exemptions which apply to the taxable object: business, forest land, furniture, family home -->
-<!-- ::: -->
+    -   factual exemptions which apply to the taxable object: business, forest land, furniture, family home
+:::
 
 ## Data
 
@@ -191,37 +191,37 @@ source("generating_output.R")
 ::: notes
 :::
 
-<!-- ## Methods -->
+## Methods
 
-<!-- -   Descriptive analyses -->
+-   Descriptive analyses
 
-<!-- -   OLS regressions -->
+-   OLS regressions
 
-<!--     -   Dependent variables: Effective inheritance / gift tax rate -->
+    -   Dependent variables: Effective inheritance / gift tax rate
 
-<!--     -   Predictor variables -->
+    -   Predictor variables
 
-<!--         -   gender (receiver and donor) -->
-<!--         -   asset type (as dummy variables) -->
-<!--         -   age (receiver and donor) -->
-<!--         -   east/west Germany -->
-<!--         -   year -->
+        -   gender (receiver and donor)
+        -   asset type (as dummy variables)
+        -   age (receiver and donor)
+        -   east/west Germany
+        -   year
 
-<!-- ::: notes -->
-<!-- Our methods are very straightforward, we look at descriptive tables and graphs. And to explain the gender gap we run OLS regressions. -->
+::: notes
+Our methods are very straightforward, we look at descriptive tables and graphs. And to explain the gender gap we run OLS regressions.
 
-<!-- -   dependent variable are the are the effective tax rate for Inheritance and gifts separately -->
+-   dependent variable are the are the effective tax rate for Inheritance and gifts separately
 
-<!-- -   our predictor variables are: gender, asset type, age, east/west, year -->
-<!-- ::: -->
+-   our predictor variables are: gender, asset type, age, east/west, year
+:::
 
-<!-- ##  -->
+## 
 
-<!-- ::: {style="font-size: 2.5em; text-align: center"} -->
-<!-- <br> -->
+::: {style="font-size: 2.5em; text-align: center"}
+<br>
 
-<!-- <br> [Gendered transfer behavior: <br> Gender inequality in gifts but not inheritances?]{style="color:darkred;text-align:center"} -->
-<!-- ::: -->
+<br> [Gendered transfer behavior: <br> Gender inequality in gifts but not inheritances?]{style="color:darkred;text-align:center"}
+:::
 
 <!-- ::: notes -->
 
@@ -430,61 +430,61 @@ But that looks different for gifts.
 
 <!-- ::: -->
 
-<!-- ## Gender gap of effective tax rate over time -->
+## Gender gap of effective tax rate over time
 
-<!-- ```{r} -->
-<!-- over_time_ratio_taxrate2 -->
-<!-- ``` -->
+```{r}
+over_time_ratio_taxrate2
+```
 
-<!-- ::: notes -->
-<!-- -   Let us know look at the gender gap in the effective tax rate over time. -->
-<!-- -   On the y axis you see the gender gap which is calculated as tax of men - tax of women / tax of women -->
-<!-- -   values below 0 indicate that women pay more taxes. Values above 0 indicate that men pay more taxes -->
-<!-- -   Let's look at the mean, the upper left panel -->
-<!-- -   Men pay about 20% less taxes on gifts than women on average but Men pay only 1-3% less taxes on inheritance than women on average -->
-<!-- -   Let's move to the median in the upper right panel. Here, At the median a gender tax gap is visible also for inheritance and it amounts to about 18%. -->
-<!-- -   Interestingly we see that 50% of the receiver of gifts payed no tax at all indicated by missing dots in the upper right panel. -->
-<!-- ::: -->
+::: notes
+-   Let us know look at the gender gap in the effective tax rate over time.
+-   On the y axis you see the gender gap which is calculated as tax of men - tax of women / tax of women
+-   values below 0 indicate that women pay more taxes. Values above 0 indicate that men pay more taxes
+-   Let's look at the mean, the upper left panel
+-   Men pay about 20% less taxes on gifts than women on average but Men pay only 1-3% less taxes on inheritance than women on average
+-   Let's move to the median in the upper right panel. Here, At the median a gender tax gap is visible also for inheritance and it amounts to about 18%.
+-   Interestingly we see that 50% of the receiver of gifts payed no tax at all indicated by missing dots in the upper right panel.
+:::
 
-<!-- ## Regression: effective gift tax (2007-2020) {.scrollable} -->
+## Regression: effective gift tax (2007-2020) {.scrollable}
 
-<!-- ::: {style="font-size: 0.75em; text-align: center"} -->
-<!-- ```{r} -->
-<!-- t_reg_gifts_tax  -->
-<!-- ``` -->
-<!-- ::: -->
+::: {style="font-size: 0.75em; text-align: center"}
+```{r}
+t_reg_gifts_tax 
+```
+:::
 
-<!-- ::: notes -->
-<!-- -   Last, we estimated regressions with the effective tax as the dependent variable. -->
+::: notes
+-   Last, we estimated regressions with the effective tax as the dependent variable.
 
-<!-- -   For gifts we find that daughters pay on average 0.5 percentage points more than sons controlled for the position in the transfer distribution. Raw gift tax gap. -->
+-   For gifts we find that daughters pay on average 0.5 percentage points more than sons controlled for the position in the transfer distribution. Raw gift tax gap.
 
-<!-- -   The wealth components explain part of this gender gift tax gap. The gender tax gap decreases if business wealth is included in the transfer. -->
+-   The wealth components explain part of this gender gift tax gap. The gender tax gap decreases if business wealth is included in the transfer.
 
-<!-- -   The gender tax gap decreases also if estate wealth is included -->
+-   The gender tax gap decreases also if estate wealth is included
 
-<!-- -   Thus, the regression shows that men and women benefit differently from the tax exemption leading to the gender tax gap. -->
+-   Thus, the regression shows that men and women benefit differently from the tax exemption leading to the gender tax gap.
 
-<!-- -   interestingly, the tax gap is also smaller if the donor is female. -->
+-   interestingly, the tax gap is also smaller if the donor is female.
 
-<!-- -   Let's just look shortly at the other coefficients: if you receive business you pay less tax. This basically refelects the tax exemptions. -->
-<!-- ::: -->
+-   Let's just look shortly at the other coefficients: if you receive business you pay less tax. This basically refelects the tax exemptions.
+:::
 
-<!-- ## Regression: effective inheritance tax {.scrollable} -->
+## Regression: effective inheritance tax {.scrollable}
 
-<!-- ::: {style="font-size: 0.75em; text-align: center"} -->
-<!-- ```{r} -->
-<!-- t_reg_inheritance_tax -->
-<!-- ``` -->
-<!-- ::: -->
+::: {style="font-size: 0.75em; text-align: center"}
+```{r}
+t_reg_inheritance_tax
+```
+:::
 
-<!-- ::: notes -->
-<!-- And last, for the effective tax paid on inheritances we find a very small gender tax gap of only 0.1 percentage points. It is still significant. -->
+::: notes
+And last, for the effective tax paid on inheritances we find a very small gender tax gap of only 0.1 percentage points. It is still significant.
 
-<!-- And again the coefficients reflect the tax exemptions of the inheritance tax law. -->
-<!-- ::: -->
+And again the coefficients reflect the tax exemptions of the inheritance tax law.
+:::
 
-## Summary
+## Conclusion
 
 ### Gendered parental transfers
 
