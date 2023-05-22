@@ -237,7 +237,7 @@ tab_df(df_aggregated %>% rename("Type" = satzart))
 This
 :::
 
-## Gender ratios in number of parental transfers including specific wealth components (2007-2020)
+## Gender ratios in number of parental transfers including specific wealth components
 
 ```{r}
 g_comp_result
@@ -342,14 +342,14 @@ t_reg_inheritance_tax
 
 ### Gendered parental transfers
 
--   Gender differences in total number of inheritances and gift
+-   Gender differences in total number, sums, and average amount of inheritances and gift
 -   More pronounced for gifts
 -   More pronounced for transfers including business and land wealth
 
 ### Implicit gender bias in inheritance and gift taxation
 
--   Men's effective inheritance tax rate 2% lower than women's
--   Men's effective gift tax rate 18% lower than women's
+-   Gender tax gap for inheritance: 2%
+-   Gender tax gap for gifts: 22%
 
 → Tax system with generous exemptions ampliﬁes gender inequality
 
@@ -369,7 +369,7 @@ t_reg_inheritance_tax
 
     -   especially male donor seem to be responsible for the gender transfer gap by favoring sons
 -   And this gendered transfer behavior results in an implicit gender bias in inheritance but especially gift taxation:
-    -   men pay on average about 18% lower gift taxes compared to women. This indicates that the tax system with its generous exemptions ampliﬁes gender inequality.
+    -   (female-male)/male)\*100
 :::
 
 ## References
