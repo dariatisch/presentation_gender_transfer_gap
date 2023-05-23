@@ -330,6 +330,7 @@ t_reg_inheritance_tax
 :::
 
 ## Conclusion
+![](qrcode.jpg){.absolute top="0" right="100" width="100"}
 
 ### Gendered parental transfers
 
@@ -345,6 +346,8 @@ t_reg_inheritance_tax
 → Tax system with generous exemptions ampliﬁes gender inequality
 
 <br>
+
+
 
 ::: {style="text-align: center"}
 [Contact:]{style="color:darkred;text-align:center"} [tisch\@mpifg.de]{style="text-align:center"} \| [<https://dariatisch.github.io/>]{style="text-align:center"}
