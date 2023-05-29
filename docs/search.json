@@ -158,7 +158,7 @@
     "href": "dgs.html#references",
     "title": "The Gender (Tax) Gap  in Parental Transfers.  Evidence from Administrative Inheritance and Gift Tax Data",
     "section": "References",
-    "text": "References\n\n\nAlvaredo, Facundo, Bertrand Garbinti, and Thomas Piketty. 2017. “On the Share of Inheritance in Aggregate Wealth: Europe and the USA, 19002010.” Economica 84 (334): 239–60. https://doi.org/10.1111/ecca.12233.\n\n\nBach, Stefan, Henriette Houben, Ralf Maiterth, and Richard Ochmann. 2014. “Aufkommens-Und Verteilungswirkungen von Reformalternativen Für Die Erbschaft-Und Schenkungsteuer. Endbericht: Forschungsprojekt Im Auftrag Der Bundestagsfraktion Bündnis 90/Die Grünen.” Politikberatung Kompakt.\n\n\nBessière, Céline, and Sibylle Gollac. 2020. Genre Du Capital : Comment La Famille Reproduit Les Inégalités. Paris: Découverte.\n\n\nLeopold, Thomas, and Thorsten Schneider. 2011. “Intergenerationale Vermögenstransfers Und Soziale Ungleichheit.” In, 49–72. Springer.\n\n\nVogel, Claudia, H. Künemund, K. Baresel, H. Eulitz, U. Fachinger, M. M. Grabka, C. Halbmeier, and A. Lozano Alcántara. 2021. “Gleiche Erbchancen Für Frauen Und Männer? Zur Geschlechtsspezifschen Bedeutung von Erbschaften Für Die Alterssicherung.” Deutsche Rentenversicherung 3: 236–51."
+    "text": "References\n\n\nAlvaredo, Facundo, Bertrand Garbinti, and Thomas Piketty. 2017. “On the Share of Inheritance in Aggregate Wealth: Europe and the USA, 19002010.” Economica 84 (334): 239–60. https://doi.org/10.1111/ecca.12233.\n\n\nBach, Stefan, Henriette Houben, Ralf Maiterth, and Richard Ochmann. 2014. “Aufkommens-Und Verteilungswirkungen von Reformalternativen Für Die Erbschaft-Und Schenkungsteuer. Endbericht: Forschungsprojekt Im Auftrag Der Bundestagsfraktion Bündnis 90/Die Grünen.” Politikberatung Kompakt.\n\n\nBessière, Céline, and Sibylle Gollac. 2020. Genre Du Capital : Comment La Famille Reproduit Les Inégalités. Paris: Découverte.\n\n\nFarrell, Betty. 1993. Elite Families: Class and Power in Nineteenth-Century Boston. SUNY Press.\n\n\nLeopold, Thomas, and Thorsten Schneider. 2011. “Intergenerationale Vermögenstransfers Und Soziale Ungleichheit.” In, 49–72. Springer.\n\n\nLerner, Melvin J., and Gerold Mikula. 1994. Entitlement and the Affectional Bond. Justice in Close Relationships. Critical I. Boston, MA: Springer.\n\n\nTisch, Daria, and Tamara Gutfleisch. 2022. “Unequal but Just ? Experimental Evidence on Distributive Justice Principles in Parental Inter Vivos Transfers.” Socio-Economic Review.\n\n\nVogel, Claudia, H. Künemund, K. Baresel, H. Eulitz, U. Fachinger, M. M. Grabka, C. Halbmeier, and A. Lozano Alcántara. 2021. “Gleiche Erbchancen Für Frauen Und Männer? Zur Geschlechtsspezifschen Bedeutung von Erbschaften Für Die Alterssicherung.” Deutsche Rentenversicherung 3: 236–51."
   },
   {
     "objectID": "dgs.html#genderr-wealth-gap",
@@ -788,7 +788,7 @@
     "href": "dgs.html#gender-differences-before-and-after-tax-2007-2020",
     "title": "The Gender (Tax) Gap  in Parental Transfers.  Evidence from Administrative Inheritance and Gift Tax Data",
     "section": "Gender differences before and after tax, 2007-2020",
-    "text": "Gender differences before and after tax, 2007-2020\n\n\n\n\n\nsatzart\nfemale\nmale\nRatio\ngap\n\n\nGifts, sum before tax\n117310465326.59\n186390339335.89\n1.59\n-37.06\n\n\nGifts, sum after tax\n114357976286.34\n182424185221.06\n1.60\n-37.31\n\n\nInheritances, sum before tax\n88705896524.37\n102293945810.52\n1.15\n-13.28\n\n\nInheritances, sum after tax\n79705007459.28\n92030713934.12\n1.15\n-13.39\n\n\n\n\n\n\n\nSo"
+    "text": "Gender differences before and after tax, 2007-2020\n\n\n\n\n\nType\nfemale\nmale\nRatio\nGap\n\n\nGifts, sum before tax\n117310465326.59\n186390339335.89\n1.59\n-37.06\n\n\nGifts, sum after tax\n114357976286.34\n182424185221.06\n1.60\n-37.31\n\n\nInheritances, sum before tax\n88705896524.37\n102293945810.52\n1.15\n-13.28\n\n\nInheritances, sum after tax\n79705007459.28\n92030713934.12\n1.15\n-13.39\n\n\n\n\n\n\n\nSo"
   },
   {
     "objectID": "dgs.html#regression-result-effective-gift-tax",
@@ -824,5 +824,12 @@
     "title": "The Gender (Tax) Gap  in Parental Transfers.  Evidence from Administrative Inheritance and Gift Tax Data",
     "section": "Gender ratios in number of parental transfers including specific wealth components",
     "text": "Gender ratios in number of parental transfers including specific wealth components\n\n\nAs i said it is important to look at different transfer components such as business versus real estate or cash. Here we see the gender ratios on the vertical axis.Gender differences are most pronounced for forrest/land and business wealtg and less so for other assets and real estate. Same is true for inheritances."
+  },
+  {
+    "objectID": "dgs.html#gender-differences-before-and-after-tax",
+    "href": "dgs.html#gender-differences-before-and-after-tax",
+    "title": "The Gender (Tax) Gap  in Parental Transfers.  Evidence from Administrative Inheritance and Gift Tax Data",
+    "section": "Gender differences before and after tax",
+    "text": "Gender differences before and after tax\n\n\n\n\n\nType\nfemale\nmale\nRatio\nGap\n\n\nGifts, sum before tax\n117310465326.59\n186390339335.89\n1.59\n-37.06\n\n\nGifts, sum after tax\n114357976286.34\n182424185221.06\n1.60\n-37.31\n\n\nInheritances, sum before tax\n88705896524.37\n102293945810.52\n1.15\n-13.28\n\n\nInheritances, sum after tax\n79705007459.28\n92030713934.12\n1.15\n-13.39\n\n\n\n\n\n\n\nSo"
   }
 ]

@@ -88,34 +88,34 @@ How does the inheritance and gift tax system in combination with gendered parent
     3.  We contribute to the questions how institutions shape wealth inequality by looking at the tax system. here the idea is that men and women benefit differently from tax exemptions because they receive different kind of assets
 :::
 
-<!-- ## Theoretical Background -->
+## Theoretical Background
 
-<!-- <br> -->
+<br>
 
-<!-- ### The family as an economic institution -->
+### The family as an economic institution
 
-<!-- -   Family contributes to wealth concentration via intergenerational transfers [@farrell1993] -->
-<!-- -   Family as a place where wealth is produced, circulated, controlled, and assigned value [@bessière2020] -->
+-   Family contributes to wealth concentration via intergenerational transfers [@farrell1993]
+-   Family as a place where wealth is produced, circulated, controlled, and assigned value [@bessière2020]
 
-<!-- ### Gender inequality in transfers -->
+### Gender inequality in transfers
 
-<!-- -   Societal beliefs in gender diﬀerences in entitlements [@lerner1994; @tisch2022] -->
-<!-- -   Daughters and sons might receive diﬀerent asset types -->
-<!-- -   Unintentional consequences of the tax system (exemptions) -->
+-   Societal beliefs in gender diﬀerences in entitlements [@lerner1994; @tisch2022]
+-   Daughters and sons might receive diﬀerent asset types
+-   Unintentional consequences of the tax system (exemptions)
 
-<!-- ::: notes -->
-<!-- What is the theoretical background? We follow the literature in arguing that the family is an important economic institution. The family is a place where wealth is produced, circulated, controlled, and assigned value. And the family contributes to wealth inequality via intergenerational transfers. -->
+::: notes
+What is the theoretical background? We follow the literature in arguing that the family is an important economic institution. The family is a place where wealth is produced, circulated, controlled, and assigned value. And the family contributes to wealth inequality via intergenerational transfers.
 
-<!-- But why should the family treat daughters and sons differently? -->
+But why should the family treat daughters and sons differently?
 
-<!-- Sons and daughters might receive different amounts of transfers, different assets types or they might be more or less likely to receive a transfer at all. This could be because of gendered norms or because of gender differences in characteristics which trigger transfers. -->
+Sons and daughters might receive different amounts of transfers, different assets types or they might be more or less likely to receive a transfer at all. This could be because of gendered norms or because of gender differences in characteristics which trigger transfers.
 
-<!-- -   There might be societal beliefs in gendered entitlements to transfers. In a recent study Tamara Gutfleisch and I find first evidence for gendered transfer principles although most individuals endorse equality. -->
+-   There might be societal beliefs in gendered entitlements to transfers. In a recent study Tamara Gutfleisch and I find first evidence for gendered transfer principles although most individuals endorse equality.
 
-<!-- -   But even if their are no gendered beliefs, gender difference might arise. Parents might be in a conflict between pursing the principle of equality but also other principles like the exchange or need/altruistic principle. The parents might also want to keep the fortunes together. To this end it might make sense to transfer wealth unequally between children. So it might be the case that there are gender differences in the characteristics which trigger these principles. For example that women are more likely to be in need of financial help and therefore receive more transfers. -->
+-   But even if their are no gendered beliefs, gender difference might arise. Parents might be in a conflict between pursing the principle of equality but also other principles like the exchange or need/altruistic principle. The parents might also want to keep the fortunes together. To this end it might make sense to transfer wealth unequally between children. So it might be the case that there are gender differences in the characteristics which trigger these principles. For example that women are more likely to be in need of financial help and therefore receive more transfers.
 
-<!-- -   And last, gender inequality in transfers might also be the product of the tax system. It could be that men benefit more from tax exemptions than women because they receive assets which benefit from larger tax exemptions. -->
-<!-- ::: -->
+-   And last, gender inequality in transfers might also be the product of the tax system. It could be that men benefit more from tax exemptions than women because they receive assets which benefit from larger tax exemptions.
+:::
 
 ## Country context: <br> German gift and inheritance (tax) law
 
@@ -273,9 +273,6 @@ tab_df(df_aggregated3 %>% rename("Type" = satzart))
 ```{r}
 inherit_pol8
 
-#pol8
-
-#tab_df(df_aggregated3)
 ```
 
 ::: notes
@@ -292,15 +289,15 @@ pol8
 -   For gifts, we find gender differences along the whole distribution but especially large differences at the top.
 :::
 
-<!-- ## Gender differences before and after tax, 2007-2020 -->
+## Gender differences before and after tax
 
-<!-- ```{r} -->
-<!-- tab_df(table_02_ungleichheit) -->
-<!-- ``` -->
+```{r}
+tab_df(table_02_ungleichheit  %>% rename("Type" = satzart, "Gap" = gap))
+```
 
-<!-- ::: notes -->
-<!-- -   So -->
-<!-- ::: -->
+::: notes
+-   So
+:::
 
 ## Regression result: effective gift tax {.scrollable}
 
