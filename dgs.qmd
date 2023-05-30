@@ -38,11 +38,13 @@ bibliography: references.bib
 -   Share of inherited wealth in aggregate private wealth in Europe around 50-60% [@alvaredo2017]
 -   What's the role of intergenerational transfers in gender wealth inequality?
 -   Mixed prior ﬁndings
-    -   Gender diﬀerence in age and amounts of transfers [@bessière2020]
+    -   Gender diﬀerence in age and amounts of transfers \[ @bessière2023\]
 
-    -   Hardly any gender differences in **inheritances** in Germany [@leopold2011; @vogel2021a]
+    -   Hardly any gender differences in **inheritances** in Germany but gifts [@leopold2011; @vogel2021a; @bach2016a]
 
-    -   But: Prior research based on **survey data**
+    -   But men receive higher transfers during working life \[@bartels\]
+
+    -   Most prior research based on **survey data**
 :::
 :::
 
@@ -241,7 +243,7 @@ g_comp_result
 ```
 
 ::: notes
-As i said it is important to look at different transfer components such as business versus real estate or cash. Here we see the gender ratios on the vertical axis.Gender differences are most pronounced for forrest/land and business wealtg and less so for other assets and real estate. Same is true for inheritances.  
+As i said it is important to look at different transfer components such as business versus real estate or cash. Here we see the gender ratios on the vertical axis.Gender differences are most pronounced for forrest/land and business wealtg and less so for other assets and real estate. Same is true for inheritances.
 :::
 
 ## 
@@ -253,7 +255,7 @@ As i said it is important to look at different transfer components such as busin
 :::
 
 ::: notes
-To understand how the tax systems affects gender inequality, we calculate the effective tax rates and  we try to explain the gender tax gap with an OLS regression. We focus here on the asset type and gender of the donor
+To understand how the tax systems affects gender inequality, we calculate the effective tax rates and we try to explain the gender tax gap with an OLS regression. We focus here on the asset type and gender of the donor
 :::
 
 ## Gender differences in effective tax rates
@@ -289,14 +291,21 @@ pol8
 -   For gifts, we find gender differences along the whole distribution but especially large differences at the top.
 :::
 
-## Gender differences before and after tax
+## Does the tax system widen the gender transfer gap?
 
 ```{r}
 tab_df(table_02_ungleichheit  %>% rename("Type" = satzart, "Gap" = gap))
 ```
+<br>
+Example:  A woman and a man receive 500.000 Euros in gifts.
+
+- The average gift tax rate for women: 2,65% and for men 2,00%
+- The woman pays 13.250 Euros, the men only 10.000 Euros
+- Tax system increases the gender transfer gap by 3.250 Euros
+
 
 ::: notes
--   So
+The average gift tax rate for women at the eight decile was 2,65% and for men 2,00%. Therefore, women paid on average about 13.250 Euros, while men paid only 10.000 Euros. At this decile, the tax system increased the gender transfer gap by 3.250 Euros or about one tenth of the estimated gender wealth gap in Germany (Sierminska et al., 2010)
 :::
 
 ## Regression result: effective gift tax {.scrollable}
@@ -309,9 +318,9 @@ t_reg_gifts_tax
 
 ::: notes
 -   Last, we try to explain this gap by OLS regressions.
--  Controlling for the position within the gift distribution, we estimate the gender gap to be 0.5 percentage points.
-- We can explain this gap partly by including dummy variables indicating if a gifts includes specific wealth types. Indeed, the gap is smaller if we only compare gifts which include business wealth
-- interestingly, gender differences are also predicted to be smaller if the doner is female.
+-   Controlling for the position within the gift distribution, we estimate the gender gap to be 0.5 percentage points.
+-   We can explain this gap partly by including dummy variables indicating if a gifts includes specific wealth types. Indeed, the gap is smaller if we only compare gifts which include business wealth
+-   interestingly, gender differences are also predicted to be smaller if the doner is female.
 :::
 
 ## Regression result: effective inheritance tax {.scrollable}
@@ -327,6 +336,7 @@ t_reg_inheritance_tax
 :::
 
 ## Conclusion
+
 ![](qrcode.jpg){.absolute top="0" right="100" width="100"}
 
 ### Gendered parental transfers
@@ -343,8 +353,6 @@ t_reg_inheritance_tax
 → Tax system with generous exemptions ampliﬁes gender inequality
 
 <br>
-
-
 
 ::: {style="text-align: center"}
 [Contact:]{style="color:darkred;text-align:center"} [tisch\@mpifg.de]{style="text-align:center"} \| [<https://dariatisch.github.io/>]{style="text-align:center"}
