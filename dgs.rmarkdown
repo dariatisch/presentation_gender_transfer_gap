@@ -1,0 +1,391 @@
+---
+title: "The Gender (Tax) Gap  <br>  in  Parental Transfers. <br>  Evidence from Administrative Inheritance and Gift Tax Data"
+author: "<br>  Daria Tisch¹ & Manuel Schechtl² <br>  <br> ¹Max Planck Institute for the Study of Societies <br> ²Stone-Center on Socio-Economic Inequality, The Graduate Center, City University of New York"
+subtitle: "DIW Cluster Seminar  <br>  31 May 2023"  
+format: 
+  revealjs:
+    theme: [default, custom.scss]
+    preview-links: auto
+    chalkboard: 
+      boardmarker-width: 5
+editor: visual
+slide-number:
+  c
+  #https://quarto.org/docs/publishing/github-pages.html#render-to-docs
+bibliography: references.bib
+---
+
+
+## Gender Wealth Gap
+
+![](images/luecke_gekauft.jpg){.absolute top="50" left="0" width="100%"}
+
+::: notes
+-   Gender wealth gap well established, on average Men own more wealth than women in most countries around the world.
+-   Prior research showed that differences in income and employment explain gender differences in wealth
+-   But intergenerational transfers might also play a role
+-   as does the tax system
+-   So both intergenerational transfers and taxes have been neglected in the literature on the gender wealth gap. We want to change that with this project.
+:::
+
+## Motivation {.larger}
+
+::: columns
+::: {.column width="40%"}
+![](images/transfers.jpg){.absolute top="200" left="0" width="400"}
+:::
+
+::: {.column width="60%"}
+-   Share of inherited wealth in aggregate private wealth in Europe around 50-60% [@alvaredo2017]
+-   What's the role of intergenerational transfers in gender wealth inequality?
+-   Mixed prior ﬁndings
+    -   Gender diﬀerence in age and amounts of transfers [@bessière2020]
+
+    -   Hardly any gender differences in **inheritances** in Germany [@leopold2011; @vogel2021a]
+
+    -   But: Prior research based on **survey data**
+:::
+:::
+
+::: notes
+Let me motviate why we should look at intergenerational transfers!
+
+-   Most personal wealth today is inherited. Share of inherited wealth in aggregate wealth is estimated to be around 50-60%.
+
+-   So if private wealth is so much shaped by inheritance it is only logical to ask how intergenerational transfers contribute to the gender wealth gap
+
+-   Prior literature on this topic is limited. For France, Bessiere and Gollac show that men receive transfers at earlier ages and higher amounts leading to a higher accumulation potential
+
+-   Hardly any gender differences are found in Germany for inheritances. Some for gifts.
+
+-   In the US, daughters more likely to receive transfers but no difference in amounts. And increased likelihood only for unmarried daughters.
+
+-   The problem of these study is that they are based on survey data which do not represent the upper end of the wealth distribution well. Because wealth is highly concentrated and power comes along with wealth, it is especially important to know more about gender differences at the top of the wealth transfer distribution.
+:::
+
+## Research Question & Contributions
+
+<br>
+
+### Research Question
+
+How does the inheritance and gift tax system in combination with gendered parental transfer behavior shape gender inequalities in wealth?
+
+<br>
+
+### Contributions
+
+-   Focus on the upper part of the transfer distribution
+
+-   Differentiation between asset types
+
+-   Role of the tax system in shaping gender wealth inequality
+
+::: notes
+-   In our study we therefore ask: How does the inheritance and gift tax system in combination with gendered parental transfer behavior shape gender inequalities in wealth?
+-   I think we make three major contributions with this study
+    1.  We add to prior literature by looking at the top of the transfer distribution: Upper part important because wealth is related to power
+    2.  We differentiate between assets types. It is important to differentiate between asset types because they offer different accumulation potential and translate differently into power. It makes a difference if you inherited a house, a business or cash
+    3.  We contribute to the questions how institutions shape wealth inequality by looking at the tax system. here the idea is that men and women benefit differently from tax exemptions because they receive different kind of assets
+:::
+
+## Theoretical Background
+
+<br>
+
+### The family as an economic institution
+
+-   Family contributes to wealth concentration via intergenerational transfers [@farrell1993]
+-   Family as a place where wealth is produced, circulated, controlled, and assigned value [@bessière2020]
+
+### Gender inequality in transfers
+
+-   Societal beliefs in gender diﬀerences in entitlements [@lerner1994; @tisch2022]
+-   Daughters and sons might receive diﬀerent asset types
+-   Unintentional consequences of the tax system (exemptions)
+
+::: notes
+What is the theoretical background? We follow the literature in arguing that the family is an important economic institution. The family is a place where wealth is produced, circulated, controlled, and assigned value. And the family contributes to wealth inequality via intergenerational transfers.
+
+But why should the family treat daughters and sons differently?
+
+Sons and daughters might receive different amounts of transfers, different assets types or they might be more or less likely to receive a transfer at all. This could be because of gendered norms or because of gender differences in characteristics which trigger transfers.
+
+-   There might be societal beliefs in gendered entitlements to transfers. In a recent study Tamara Gutfleisch and I find first evidence for gendered transfer principles although most individuals endorse equality.
+
+-   But even if their are no gendered beliefs, gender difference might arise. Parents might be in a conflict between pursing the principle of equality but also other principles like the exchange or need/altruistic principle. The parents might also want to keep the fortunes together. To this end it might make sense to transfer wealth unequally between children. So it might be the case that there are gender differences in the characteristics which trigger these principles. For example that women are more likely to be in need of financial help and therefore receive more transfers.
+
+-   And last, gender inequality in transfers might also be the product of the tax system. It could be that men benefit more from tax exemptions than women because they receive assets which benefit from larger tax exemptions.
+:::
+
+## Country context: <br> German gift and inheritance (tax) law
+
+-   Inheritances
+    -   statutory inheritance quota or last will (predeﬁned inheritance + quota)
+    -   restricted testamentary freedom → disinheritance possible but statutory share: minimum inheritance of close relatives is half the amount they would have received in absence of a last will
+-   Gifts: amount of the gift and the recipient can be freely determined
+-   Inheritance tax (not an estate tax)
+    -   personal tax exemption (applies to the taxable person): e.g., 400,000 EUR / 10 years for parental transfer
+    -   factual tax exemption (applies to the taxable object): business, forest, furniture, family home etc.
+
+::: notes
+Before you die you have basically two options: writing a last will or not
+
+-   if you don't write a last will the statutory inheritance quota will be in place with no gender discrimination
+
+-   or you write a last will and can specify the quota or also predefine inheritance. eg you can say that your son should receive the house
+
+-   The testamentary freedom is restricted in Germany. You can disinherit a child but then this child can claim their statutory share from the legal heir. This share is half of the amount they would receive in the absence of a will
+
+-   There are no regulations regarding gift. Thus, the amount and recipient of gifts can be freely chosen
+
+-   What about taxes?
+
+    -   inheritance tax not an estate tax like in the US
+
+    -   gifts and inheritances are treated equally
+
+    -   personal tax exemptions which apply to the taxable person: eg 400,000 Euro every 10 years for each parent
+
+    -   factual exemptions which apply to the taxable object: business, forest land, furniture, family home
+:::
+
+## Data
+
+::: columns
+::: {.column width="40%"}
+![](images/steuererkl.jpg){.absolute top="100" left="0" width="400"}
+:::
+
+::: {.column width="60%"}
+-   German inheritance and gift tax data 2007-2020
+-   Highly sensitive data → restricted access
+-   Cover bequests and gifts for which a tax claim was requested
+-   Advantage: Entire population of tax relevant transfers
+-   Coverage: 30% of all bequests, accounting for 73% of all transferred wealth above 10,000 EUR in 2010 [@bach2014]
+:::
+:::
+
+::: notes
+:::
+
+## Methods
+
+-   Descriptive analyses
+
+-   OLS regressions
+
+    -   Dependent variable: Effective inheritance / gift tax rate
+
+    -   Predictor variables
+
+        -   gender (receiver and donor)
+        -   asset type (as dummy variables)
+        -   age (receiver and donor)
+        -   east/west Germany
+        -   year
+
+::: notes
+Our methods are very straightforward, we look at descriptive tables and graphs. And to explain the gender gap we run OLS regressions.
+
+-   dependent variable are the amount of gifts and inheritance. Due to the skewdness of the data, we transform the data by a percentile rank transformation (for each year separately)
+
+-   second group of dependent variables are the effective tax rate. Inheritance and gift
+
+-   our predictor variables are: gender, asset type, age, east/west, year
+:::
+
+## 
+
+::: {style="font-size: 2.5em; text-align: center"}
+<br>
+
+<br> [Gendered transfer behavior: <br> Gender inequality in gifts but not inheritances?]{style="color:darkred;text-align:center"}
+:::
+
+::: notes
+Let's look at the results. I take you the surprise: we find large gender differences in gifts but not so much for inheritances but let's look at that in detail.
+:::
+
+## Gender differences in tax relevant parental transfers, 2007-2020
+
+<br>
+
+
+```{r}
+#| echo: false
+#| output: false
+Sys.info()['nodename']
+work_dir = ifelse(Sys.info()['nodename']=="P2010", 
+                  "C:/Users/ti/Local/seafile/main/---projects---/erbschaftsstatistik/gender_differences/after_fdz/code",
+                  ifelse(Sys.info()['nodename']=="P2101",
+                         "",
+                         ifelse(Sys.info()['nodename']=="DARIASLAPTOP",
+                                "D:/Seafile/main/---projects---/erbschaftsstatistik/gender_differences/after_fdz/code",
+                                "")))
+setwd(work_dir)
+getwd()
+source("generating_output_tax_paper.R")
+```
+
+```{r}
+tab_df(df_aggregated %>% rename("Type" = satzart))
+```
+
+
+::: notes
+We calculated gender differences as ratios as well as the gap (female-male)/male. The gender gift gap amounts to 10%, the inheritance gap to 7%. More interestingly than the averages are the number of tax-relevant transfers: Here, the gap amounts to 30% for gifts and to 7% for inheritances. Of course, this also results in larger gender gaps in the total sums.
+:::
+
+## Gender ratios in number of parental transfers including specific wealth components
+
+
+```{r}
+g_comp_result
+```
+
+
+::: notes
+As i said it is important to look at different transfer components such as business versus real estate or cash. Here we see the gender ratios on the vertical axis.Gender differences are most pronounced for forrest/land and business wealtg and less so for other assets and real estate. Same is true for inheritances.  
+:::
+
+## 
+
+::: {style="font-size: 2.5em; text-align: center"}
+<br>
+
+<br> [Let's look at how the tax system shapes gender inequality.]{style="color:darkred;text-align:center"}
+:::
+
+::: notes
+To understand how the tax systems affects gender inequality, we calculate the effective tax rates and  we try to explain the gender tax gap with an OLS regression. We focus here on the asset type and gender of the donor
+:::
+
+## Gender differences in effective tax rates
+
+<br>
+
+
+```{r}
+tab_df(df_aggregated3 %>% rename("Type" = satzart))
+```
+
+
+::: notes
+-   Again a descriptive calculation of the gaps. The gender tax gap for gifts amounts to 22% and for inheritances tp 2%. Thus women have to pay higher taxes. Is this true for the whole distribution?
+:::
+
+## Effective tax rate along the inheritance distribution (2007-2020)
+
+
+```{r}
+inherit_pol8
+
+```
+
+
+::: notes
+-   For inheritance, gender differences are only significant at the top of the inheritance distribution.
+:::
+
+## Effective tax rate along the gift distribution (2007-2020)
+
+
+```{r}
+pol8
+```
+
+
+::: notes
+-   For gifts, we find gender differences along the whole distribution but especially large differences at the top.
+:::
+
+## Gender differences before and after tax
+
+
+```{r}
+tab_df(table_02_ungleichheit  %>% rename("Type" = satzart, "Gap" = gap))
+```
+
+
+::: notes
+-   So
+:::
+
+## Regression result: effective gift tax {.scrollable}
+
+::: {style="font-size: 0.75em; text-align: center"}
+
+```{r}
+t_reg_gifts_tax
+```
+
+:::
+
+::: notes
+-   Last, we try to explain this gap by OLS regressions.
+-  Controlling for the position within the gift distribution, we estimate the gender gap to be 0.5 percentage points.
+- We can explain this gap partly by including dummy variables indicating if a gifts includes specific wealth types. Indeed, the gap is smaller if we only compare gifts which include business wealth
+- interestingly, gender differences are also predicted to be smaller if the doner is female.
+:::
+
+## Regression result: effective inheritance tax {.scrollable}
+
+::: {style="font-size: 0.75em; text-align: center"}
+
+```{r}
+t_reg_inheritance_tax
+```
+
+:::
+
+::: notes
+-   For inheritances, controlling for the the level of the inheritance, women are predicted to pay 0.1 percentage point more on their inheritance than men. So the differences are small and can partly be explained by the type of the transfer.
+:::
+
+## Conclusion
+![](qrcode.jpg){.absolute top="0" right="100" width="100"}
+
+### Gendered parental transfers
+
+-   Gender differences in total number, sums, and average amount of inheritances and gift
+-   More pronounced for gifts
+-   More pronounced for transfers including business and land wealth
+
+### Implicit gender bias in inheritance and gift taxation
+
+-   Gender tax gap for inheritance: 2%
+-   Gender tax gap for gifts: 22%
+
+→ Tax system with generous exemptions ampliﬁes gender inequality
+
+<br>
+
+
+
+::: {style="text-align: center"}
+[Contact:]{style="color:darkred;text-align:center"} [tisch\@mpifg.de]{style="text-align:center"} \| [<https://dariatisch.github.io/>]{style="text-align:center"}
+:::
+
+::: notes
+-   To conclude, we showed that parental transfers are gendered.
+    -   daughters receive less gifts and inheritances and the values are also smaller
+
+    -   daughters receive different type of assets
+
+    -   more pronounced for gifts than inheritance
+
+    -   especially male donor seem to be responsible for the gender transfer gap by favoring sons
+-   And this gendered transfer behavior results in an implicit gender bias in inheritance but especially gift taxation:
+    -   (female-male)/male)\*100
+:::
+
+## References
+
+::: {#refs}
+:::
+
+## No age differences {.appendix}
+
+![](images/age_diff.svg){.absolute top="45" left="50" width="75%"}
+

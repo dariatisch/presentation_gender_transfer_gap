@@ -1,7 +1,7 @@
 ---
 title: "The Gender (Tax) Gap  <br>  in  Parental Transfers. <br>  Evidence from Administrative Inheritance and Gift Tax Data"
 author: "<br>  Daria Tisch¹ & Manuel Schechtl² <br>  <br> ¹Max Planck Institute for the Study of Societies <br> ²Stone-Center on Socio-Economic Inequality, The Graduate Center, City University of New York"
-subtitle: "RC28 Spring Meeting in Paris  <br>  May 2023"  
+subtitle: "DIW Cluster Seminar  <br>  31 May 2023"  
 format: 
   revealjs:
     theme: [default, custom.scss]
