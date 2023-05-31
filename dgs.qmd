@@ -30,23 +30,25 @@ bibliography: references.bib
 ## Motivation {.larger}
 
 ::: columns
-::: {.column width="40%"}
-![](images/transfers.jpg){.absolute top="200" left="0" width="400"}
+::: {.column width="30%"}
+![](images/transfers.jpg){.absolute top="70" left="55" width="200"}
 :::
 
-::: {.column width="60%"}
+::: {.column width="70%"}
 -   Share of inherited wealth in aggregate private wealth in Europe around 50-60% [@alvaredo2017]
 -   What's the role of intergenerational transfers in gender wealth inequality?
+
+:::
+
+:::
 -   Mixed prior ﬁndings
-    -   Gender diﬀerence in age and amounts of transfers \[ @bessière2023\]
+    -   Gender diﬀerence in age and amounts of transfers [ @bessière2023]
 
     -   Hardly any gender differences in **inheritances** in Germany but gifts [@leopold2011; @vogel2021a; @bach2016a]
 
-    -   But men receive higher transfers during working life \[@bartels\]
+    -   But men receive higher transfers during working life [@bartels]
 
     -   Most prior research based on **survey data**
-:::
-:::
 
 ::: notes
 Let me motviate why we should look at intergenerational transfers!
