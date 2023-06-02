@@ -760,7 +760,7 @@
     "href": "dgs.html#gender-differences-in-tax-relevant-parental-transfers-2007-2020",
     "title": "The Gender (Tax) Gap  in Parental Transfers.  Evidence from Administrative Inheritance and Gift Tax Data",
     "section": "Gender differences in tax relevant parental transfers, 2007-2020",
-    "text": "Gender differences in tax relevant parental transfers, 2007-2020\n\n\n\n\n\n\n\n\n\nType\nStatistic\nFemale\nMale\nRatio\nGap\n\n\nGift\nmean\n1004463.98\n1115012.93\n1.11\n-9.91\n\n\nInheritance\nmean\n772266.90\n828004.81\n1.07\n-6.73\n\n\nGift\nN\n112547.00\n160483.00\n1.43\n-29.87\n\n\nInheritance\nN\n115639.00\n124461.00\n1.08\n-7.09\n\n\nGift\nsum\n117310465326.59\n186390339335.89\n1.59\n-37.06\n\n\nInheritance\nsum\n88705896524.37\n102293945810.52\n1.15\n-13.28\n\n\n\n\n\n\nWe calculated gender differences as ratios as well as the gap (female-male)/male. The gender gift gap amounts to 10%, the inheritance gap to 7%. More interestingly than the averages are the number of tax-relevant transfers: Here, the gap amounts to 30% for gifts and to 7% for inheritances. Of course, this also results in larger gender gaps in the total sums."
+    "text": "Gender differences in tax relevant parental transfers, 2007-2020\n\n\n\n\n\n\n\nTypeStatisticFemaleMaleRatioGapGiftmean in 1,0001,004.461,115.011.11-9.91Inheritancemean in 1,000772.27828.001.07-6.73GiftN in 1,000112.55160.481.43-29.87InheritanceN in 1,000115.64124.461.08-7.09Giftsum in 1,000117,310,465.33186,390,339.341.59-37.06Inheritancesum in 1,00088,705,896.52102,293,945.811.15-13.28\n\n\n\nWe calculated gender differences as ratios as well as the gap (female-male)/male. The gender gift gap amounts to 10%, the inheritance gap to 7%. More interestingly than the averages are the number of tax-relevant transfers: Here, the gap amounts to 30% for gifts and to 7% for inheritances. Of course, this also results in larger gender gaps in the total sums."
   },
   {
     "objectID": "dgs.html#gender-ratios-in-number-of-parental-transfers-including-specific-wealth-components-2007-2020",
@@ -844,6 +844,20 @@
     "href": "dgs.html#does-the-tax-system-widen-the-gender-transfer-gap",
     "title": "The Gender (Tax) Gap  in Parental Transfers.  Evidence from Administrative Inheritance and Gift Tax Data",
     "section": "Does the tax system widen the gender transfer gap?",
-    "text": "Does the tax system widen the gender transfer gap?\n\n\n\n\n\nType\nfemale\nmale\nRatio\nGap\n\n\nGifts, sum before tax\n117310465326.59\n186390339335.89\n1.59\n-37.06\n\n\nGifts, sum after tax\n114357976286.34\n182424185221.06\n1.60\n-37.31\n\n\nInheritances, sum before tax\n88705896524.37\n102293945810.52\n1.15\n-13.28\n\n\nInheritances, sum after tax\n79705007459.28\n92030713934.12\n1.15\n-13.39\n\n\n\n\n\n Example: A woman and a man receive 500.000 Euros in gifts.\n\nThe average gift tax rate for women: 2,65% and for men 2,00%\nThe woman pays 13.250 Euros, the men only 10.000 Euros\nTax system increases the gender transfer gap by 3.250 Euros\n\n\nThe average gift tax rate for women at the eight decile was 2,65% and for men 2,00%. Therefore, women paid on average about 13.250 Euros, while men paid only 10.000 Euros. At this decile, the tax system increased the gender transfer gap by 3.250 Euros or about one tenth of the estimated gender wealth gap in Germany (Sierminska et al., 2010)"
+    "text": "Does the tax system widen the gender transfer gap?\n\n\n\nTypeFemale, in Mio.Male, in Mio.RatioGapGifts, sum before tax117.31186.391.59-37.06Gifts, sum after tax114.36182.421.60-37.31Inheritances, sum before tax88.71102.291.15-13.28Inheritances, sum after tax79.7192.031.15-13.39\n\n\n Example: A woman and a man receive 500.000 Euros in gifts.\n\nThe average gift tax rate for women: 2,65% and for men 2,00%\nThe woman pays 13.250 Euros, the men only 10.000 Euros\nTax system increases the gender transfer gap by 3.250 Euros\n\n\nThe average gift tax rate for women at the eight decile was 2,65% and for men 2,00%. Therefore, women paid on average about 13.250 Euros, while men paid only 10.000 Euros. At this decile, the tax system increased the gender transfer gap by 3.250 Euros or about one tenth of the estimated gender wealth gap in Germany (Sierminska et al., 2010)"
+  },
+  {
+    "objectID": "dgs.html#composition-of-gifts-across-the-distribution",
+    "href": "dgs.html#composition-of-gifts-across-the-distribution",
+    "title": "The Gender (Tax) Gap  in Parental Transfers.  Evidence from Administrative Inheritance and Gift Tax Data",
+    "section": "Composition of gifts across the distribution",
+    "text": "Composition of gifts across the distribution"
+  },
+  {
+    "objectID": "dgs.html#composition-of-inheritances-across-the-distribution",
+    "href": "dgs.html#composition-of-inheritances-across-the-distribution",
+    "title": "The Gender (Tax) Gap  in Parental Transfers.  Evidence from Administrative Inheritance and Gift Tax Data",
+    "section": "Composition of inheritances across the distribution",
+    "text": "Composition of inheritances across the distribution"
   }
 ]

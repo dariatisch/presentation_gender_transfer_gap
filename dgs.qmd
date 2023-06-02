@@ -1,7 +1,7 @@
 ---
 title: "The Gender (Tax) Gap  <br>  in  Parental Transfers. <br>  Evidence from Administrative Inheritance and Gift Tax Data"
 author: "<br>  Daria Tisch¹ & Manuel Schechtl² <br>  <br> ¹Max Planck Institute for the Study of Societies <br> ²Stone-Center on Socio-Economic Inequality, The Graduate Center, City University of New York"
-subtitle: "DIW Cluster Seminar  <br>  31 May 2023"  
+subtitle: "INEQ Research Seminar   <br>  5 June 2023"  
 format: 
   revealjs:
     theme: [default, custom.scss]
@@ -231,7 +231,7 @@ source("generating_output_tax_paper.R")
 ```
 
 ```{r}
-tab_df(df_aggregated %>% rename("Type" = satzart))
+tab01_flex 
 ```
 
 ::: notes
@@ -296,7 +296,7 @@ pol8
 ## Does the tax system widen the gender transfer gap?
 
 ```{r}
-tab_df(table_02_ungleichheit  %>% rename("Type" = satzart, "Gap" = gap))
+table_02_ungleichheit
 ```
 <br>
 Example:  A woman and a man receive 500.000 Euros in gifts.
@@ -381,3 +381,15 @@ t_reg_inheritance_tax
 ## No age differences {.appendix}
 
 ![](images/age_diff.svg){.absolute top="45" left="50" width="75%"}
+
+## Composition of gifts across the distribution {.appendix}
+
+```{r}
+gcomp_dec_gift
+```
+
+## Composition of inheritances across the distribution {.appendix}
+
+```{r}
+gcomp_dec_erb
+```
