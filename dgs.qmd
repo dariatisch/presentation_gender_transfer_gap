@@ -238,7 +238,7 @@ tab01_flex
 We calculated gender differences as ratios as well as the gap (female-male)/male. The gender gift gap amounts to 10%, the inheritance gap to 7%. More interestingly than the averages are the number of tax-relevant transfers: Here, the gap amounts to 30% for gifts and to 7% for inheritances. Of course, this also results in larger gender gaps in the total sums.
 :::
 
-## Gender ratios in number of parental transfers including specific wealth components
+## Gender ratios across estate types
 
 ```{r}
 g_comp_result
